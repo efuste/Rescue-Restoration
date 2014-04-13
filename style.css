@@ -64,7 +64,8 @@ em { font-style: italic; }
 .margin72{margin-top:72px;}
 .margin-b32{margin-bottom:32px;}
 .column-clear{clear:both;}
-div { position:relative } 
+div { position:relative }
+
 a:active,a:focus{outline: none;
 text-decoration:none;}
 
@@ -380,9 +381,15 @@ border:5px solid #4f91cd;}
 .services-icon, .circle-icon{text-align:center;
 font-size:72px;
 color:#4f91cd;}
-.services-title, .circle-title{font-weight:400;
+.services-title, {font-weight:400;
 text-align:center;
-margin-top:16px;}
+margin-top:16px; font-size: 21px;}
+
+.circle-title{
+text-align:center;
+font-weight:400;
+font-size: 30px;
+}
 
 .services-item:hover .services-icon, .circle-icon:hover i{-webkit-transform: scale(1.2,1.2);
 -moz-transform: scale(1.2,1.2);
@@ -511,7 +518,19 @@ border:none;
 3.2 ABOUT
 
  ************************************/
- 
+
+
+
+.circle-icon i.fa img {
+
+    width: 70px;
+    height: 80px;
+    margin-bottom: 20px;
+}
+
+.about {
+    background-image:url(images/bkgs/truck_img.jpg);
+}
 .about-title h3{color:#404040;}
 
 .about-section:after, .case:after, .lawyer:after{background-color: #4f91cd;

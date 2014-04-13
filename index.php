@@ -50,16 +50,14 @@
          
 
         <!--.col-md-12-->
-        <div class="col-md-4">
+        <div class="col-md-6">
           <p><span class="dropcap">O</span>ur professionals will treat and respect your property as if it were our own. We are dedicated to providing the best service with personal care, as every situation is different. We guarantee the best remediation and restoration job because performing</p>
         </div>
-        <div class="col-md-4">
-          <p>  at our optimum level is our standard. In doing so, we try to make the process as proficient and as stress free as possible for the client. Don't hesitate to call Rescue Restoration Services at (786) 280-2278 immediately, if and when your property is affected by water, 
-</p>
+        <div class="col-md-6">
+          <p>  at our optimum level is our standard. In doing so, we try to make the process as proficient and as stress free as possible for the client. Don't hesitate to call Rescue Restoration Services at (786) 280-2278 immediately, if and when your property is affected by water,
+              mold, fire and/ or bio-hazard. Time is crucial in limiting damage  caused by such unfortunate events. </p>
         </div>
-        <div class="col-md-4">
-          <p>mold, fire and/ or bio-hazard. Time is crucial in limiting damage  caused by such unfortunate events.  </p>
-        </div>
+
       </div>
       <!--.row-->
     </div>

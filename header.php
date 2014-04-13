@@ -57,7 +57,7 @@
                 <li><a href="services-areas.html">Mold Remediation</a></li>
                 <li><a href="services-areas.html">Fire Restoration</a></li>
                 <li><a href="services-areas.html">Bio-Hazard Remediation</a></li>
-                <li><a href="contact.html">Contact</a></li>
+                <li><a href="contact.html">Contact Us</a></li>
               </ul>
             </div>
             <!-- /.navbar-collapse -->

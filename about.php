@@ -1,6 +1,6 @@
 <?php include "header.php"?>
 
-<div class="page-head" style="background-image:url(images/bkgs/about.jpg);">
+<div class="page-head about">
 <div class="vertical">
 
 <h2 class="page-title">About Us</h2>
@@ -24,29 +24,29 @@
 <div class="row">
         <div class="col-sm-6 col-md-3">
 			<div class="inside-col-circle">
-         <div class="circle-icon"><i class="fa fa-trophy"></i></div>
-         <h5 class="circle-title">Super Lawyers 2013</h5>
+         <div class="circle-icon"><i class="fa"><img src="images/waterblue.png"/></i></div>
+         <h4 class="circle-title">Water Remediation</h4>
          </div><!--.inside-col-circle-->
         </div><!--.col-md-3-->
         
          <div class="col-sm-6 col-md-3">
 			<div class="inside-col-circle">
-         <div class="circle-icon"><i class="fa fa-star"></i></div>
-         <h5 class="circle-title">Rising Star 2013</h5>
+         <div class="circle-icon"><i class="fa"><img src="images/mold.png"/></i></div>
+         <h5 class="circle-title">Mold Remediation</h5>
          </div><!--.inside-col-circle-->
         </div><!--.col-md-3-->
         
           <div class="col-sm-6 col-md-3">
 			<div class="inside-col-circle">
-         <div class="circle-icon"><i class="fa fa-gavel"></i></div>
-         <h5 class="circle-title">Law Jurnal 2012</h5>
+         <div class="circle-icon"><i class="fa"><img src="images/bio.png"/></i></div>
+         <h5 class="circle-title">Bio-Hazard Remediation</h5>
          </div><!--.inside-col-circle-->
         </div><!--.col-md-3-->
         
           <div class="col-sm-6 col-md-3">
 			<div class="inside-col-circle">
-         <div class="circle-icon"><i class="fa fa-users"></i></div>
-         <h5 class="circle-title">Top Attorneys 2011</h5>
+         <div class="circle-icon"><i class="fa"><img src="images/fire.png"/></i></div>
+         <h5 class="circle-title">Fire Restoration</h5>
          </div><!--.inside-col-circle-->
         </div><!--.col-md-3-->
         
@@ -347,7 +347,7 @@
 
 <footer>
 <div id="footer-content">
-<div class="container">
+<div class="container footer-contact">
 
 <h3 class="footer-title alignc">Free Case Evaluation</h3>
 <h5 class="footer-subtitle alignc">Fill out the form to receive a free confidential consultation</h5>
