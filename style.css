@@ -141,32 +141,47 @@ background:#ffffff;
    
 }
 
+
+.red {
+    color: #ed1e2e;
+}
+.green {
+    color: #80c342;
+}
+
+.blue {
+    color: #2b9dd5;
+}
+
+.yellow {
+    color: #dd7926;
+}
+
+
 /* PAGES GENERAL */
 
 .page-head{display: table;
+    display: table;
     height: 300px;
     margin-bottom: 81px;
     text-align: center;
     width: 100%;
-	color: #FFFFFF;
-	
-	background-repeat: no-repeat;
-  background-position: center center !important;
-  background-attachment: scroll;
-  -webkit-background-size: cover;
-  -moz-background-size: cover;
-  -o-background-size: cover;
-  background-size: cover;
+    color: #FFFFFF;
+
 	
 	}
 .vertical{display: table-cell;
     vertical-align: middle;
 }
 
-.page-title{font-weight:700;
-letter-spacing:1px;
-position:relative;
-padding-bottom:16px;}
+.page-title{
+    font-weight: 700;
+    letter-spacing: 1px;
+    position: relative;
+    padding-bottom: 16px;
+    font-size: 50px;
+    text-shadow: 5px 5px 5px #000;
+}
 
 .page-title:after{ background-color: #ffffff;
     bottom: 0px;
@@ -175,9 +190,11 @@ padding-bottom:16px;}
     left: 50%;
 	margin-left:-50px;
     position: absolute;
-    width: 100px;}
+    width: 100px;
+    text-shadow: 5px 5px 5px #000;
+}
 
-.page-head p{margin-top:16px !important;}
+.page-head p{margin-top:16px !important; text-shadow: 5px 5px 5px #000; font-size: 20px;}
 
 .page-content{padding-bottom:81px;}
 
@@ -191,7 +208,7 @@ padding-bottom:16px;}
 #header-bar{background:#FFF;
 color:#999999;}
 
-#logo{margin-top:32px;
+#logo{margin-top:15px;
 float:left;}
 
 .header-contact{float:right;
@@ -285,13 +302,15 @@ html[xmlns] .slides {display: block;}
 .flex-caption h1{font-weight:100;
 letter-spacing:2px;
 margin-bottom:32px;
-font-size: 50px;}
+font-size: 50px;
+    text-shadow: 1px 1px 1px #000;}
 .flex-caption h4{font-style:italic;
 text-transform:uppercase;
 letter-spacing:2px;
 padding-top:32px;
 position:relative;
-font-size: 25px;}
+font-size: 25px;
+    text-shadow: 1px 1px 1px #000;}
 
 .flex-caption h4:before{ background-color: #ffffff;
     top: 0px;
@@ -377,6 +396,35 @@ color:#4f91cd;}
 margin-top:32px;
 border:5px solid #4f91cd;}
 
+.services-item-page-mold {
+    padding: 24px;
+    border: 5px solid #80c342;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.services-item-page-fire {
+    padding: 24px;
+    border: 5px solid #ed1e2e;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.services-item-page-bio {
+    padding: 24px;
+    border: 5px solid #dd7926;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+.services-item-page-water {
+    padding: 24px;
+    border: 5px solid #2b9dd5;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+
+
 .services-item a:hover{text-decoration:none;}
 .services-icon, .circle-icon{text-align:center;
 font-size:72px;
@@ -398,16 +446,16 @@ font-size: 30px;
 transform: scale(1.2,1.2);
 }
 
-.services-title, .circle-title, .small-title, .lawyer-title, .testimonial-client strong{color:#404040;}
+.services-title, .circle-title, .small-title.testimonial-client strong{color:#404040;}
+.services-title { text-align: center; margin-top: 20px; font-size: 23px;}
 .services-item:hover, .circle-icon:hover{background:#fff;}
 .services-item:hover .services-icon, .services-item:hover .services-title, .circle-icon:hover{color:#404040;}
 
 .services-single-title{color:#ffffff;}
 
 .services-single-subtitle, .single-subtitle{margin-bottom:16px;
-color:#ffffff;}
-.single-subtitle{font-style:italic;
-color:#4f91cd;}
+}
+.single-subtitle{font-style:italic;}
 
 .modal-content{background:#4f91cd;
 color:#404040;}
@@ -522,15 +570,70 @@ border:none;
 
 
 .circle-icon i.fa img {
-
     width: 70px;
     height: 80px;
-    margin-bottom: 20px;
+    margin-bottom: 15px;
+    margin-left: 3px;
 }
 
 .about {
     background-image:url(images/bkgs/truck_img.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center !important;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
 }
+
+.mold {
+    background-image:url(images/bkgs/mold-remediation.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center center !important;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+.fire {
+    background-image:url(images/bkgs/fire-restoration.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center top !important;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+.bio {
+    background-image:url(images/bkgs/biohazard-remediation.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center top !important;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
+.contact {
+    background-image:url(images/bkgs/contact-us.jpg);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center top !important;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+}
+
+
 .about-title h3{color:#404040;}
 
 .about-section:after, .case:after, .lawyer:after{background-color: #4f91cd;
@@ -885,20 +988,42 @@ p.contact-btn{margin-bottom:24px !important;}
 
 ************************************/
 
+.footer-title, .footer-subtitle {
+    color: #fff;
+    text-shadow: 1px 1px 1px #000;
+}
+
 footer{padding-top:81px;
 z-index: 4;
 height: 640px;
 position:relative;
 background:#272D34;
 color:#ffffff;
+    background: url(images/bkgs/image_walking.jpg) no-repeat center center fixed;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    background-attachment : fixed ;
 }
 
-footer #footer-content{bottom: 0;
+
+
+footer .footer-contact {
+    bottom: 0;
     left: 0;
     margin: 0 auto;
-    position: fixed;
     width: 100%;
-    z-index: 5;}
+    z-index: 5;
+
+}
+footer #footer-content{
+    bottom: 0;
+    left: 0;
+    margin: 0 auto;
+    width: 100%;
+    z-index: 5;
+}
 
 
 .footer-subtitle{margin-top:16px;}

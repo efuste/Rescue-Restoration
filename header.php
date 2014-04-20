@@ -36,7 +36,7 @@
   <i class="fa fa-circle fa-stack-2x"></i>
   <i class="fa fa-phone fa-stack-1x"></i>
 </span>
- 000 - 111 - 222</div>
+ 1-844-GO-RESCUE</div>
 <div class="header-email">
 <span class="fa-stack">
   <i class="fa fa-circle fa-stack-2x"></i>
@@ -52,12 +52,12 @@
             <div class="collapse navbar-collapse" id="collapse-navigation">
               <ul class="nav menu-nav">
                 <li class="current_page_item"><a href="index.php">Home</a></li>
-                <li><a href="about.php">About</a></li>
-                <li><a href="services-areas.html">Water Remediation</a></li>
-                <li><a href="services-areas.html">Mold Remediation</a></li>
-                <li><a href="services-areas.html">Fire Restoration</a></li>
-                <li><a href="services-areas.html">Bio-Hazard Remediation</a></li>
-                <li><a href="contact.html">Contact Us</a></li>
+                <li><a href="about.php">About Us</a></li>
+                <li><a href="miami-water-remediation.php">Water Remediation</a></li>
+                <li><a href="miami-mold-remediation.php">Mold Remediation</a></li>
+                <li><a href="miami-fire-restoration.php">Fire Restoration</a></li>
+                <li><a href="miami-biohazard-remediation.php">Bio-Hazard Remediation</a></li>
+                <li><a href="contact.php">Contact Us</a></li>
               </ul>
             </div>
             <!-- /.navbar-collapse -->
