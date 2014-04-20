@@ -303,15 +303,21 @@ html[xmlns] .slides {display: block;}
 letter-spacing:2px;
 margin-bottom:32px;
 font-size: 50px;
-    text-shadow: 1px 1px 1px #000;}
-.flex-caption h4{font-style:italic;
+text-shadow: -5px -4px 15px #000;
+font-family: helvetica, arial;
+font-size: 70px;
+font-weight: 700;}
+
+.flex-caption h4{
 text-transform:uppercase;
 letter-spacing:2px;
 padding-top:32px;
 position:relative;
-font-size: 25px;
-    text-shadow: 1px 1px 1px #000;}
+    text-shadow: 15px 0px 30px #000;    font-size: 25px;
+    font-weight: 500;
+    font-family: helvetica, arial;
 
+}
 .flex-caption h4:before{ background-color: #ffffff;
     top: 0px;
     content: "";
@@ -1046,14 +1052,17 @@ color:#707070;}
 #contact-form-holder label{color:#404040;}
 
 
-#submit-evaluation, #submit-contact{padding:13px;
-margin-top:4px;
-text-align:center;
-width:100%;
-font-weight:700;
-background:none;
-border:3px solid #4f91cd;
-color:#4f91cd;}
+#submit-evaluation, #submit-contact{
+    padding: 13px;
+    margin-top: 4px;
+    text-align: center;
+    width: 100%;
+    font-weight: 700;
+    background: none;
+    border: 3px solid #4f91cd;
+    color: #fff;
+    background-color: #4f91cd;
+}
 
 #submit-evaluation:hover, #submit-contact:hover{background:#4f91cd;
 color:#ffffff;
@@ -1074,10 +1083,13 @@ font-size:48px;}
 margin-bottom:16px !important;
 color:#707070;}
 
-.output2{padding:16px;
-border:1px solid #4f91cd;
-color:#4f91cd;
-display:inline-block;}
+.output2{
+    padding:16px;
+    border:1px solid #4f91cd;
+    color:#fff;
+    background-color: #4f91cd;
+    display:inline-block;
+}
 
 
 /*************************************

@@ -3,40 +3,40 @@
   <section id="slider-home">
     <div class="flexslider flexslider-home">
       <ul class="slides">
-        <li> <img src="images/slider/water-remediation-slide.jpg" alt="" />
+        <li> <img src="images/slider/water-remediation-slide.png" alt="" />
           <div class="flex-caption">
-            <h1 class="blue">Water Remediation</h1>
-            <h4 class="blue">Returning your home to pre-loss condition is our specialty</h4>
+            <h1>Water Remediation</h1>
+            <h4>Returning your home to pre-loss condition is our specialty</h4>
               <div class="view-more-holder">
                   <div class="view-more"><a href="services-areas.html">Learn More</a></div>
               </div>
           </div>
         </li>
 
-        <li> <img src="images/slider/fire-restoration-slide.jpg" alt="" />
+        <li> <img src="images/slider/fire-restoration-slide.png" alt="" />
           <div class="flex-caption">
-            <h1 class="red">Fire Restoration</h1>
-            <h4 class="red">Fire Damage Can Be Devastating To You And Your Family</h4>
+            <h1>Fire Restoration</h1>
+            <h4>Fire Damage Can Be Devastating To You And Your Family</h4>
               <div class="view-more-holder">
                   <div class="view-more"><a href="services-areas.html">Learn More</a></div>
               </div>
           </div>
         </li>
 
-        <li> <img src="images/slider/mole-remediation-slide.jpg" alt="" />
+        <li> <img src="images/slider/mole-remediation-slide.png" alt="" />
           <div class="flex-caption">
-            <h1 class="green">Mold Remediation</h1>
-            <h4 class="green">Don't Let Mold Affect Your Health and Home</h4>
+            <h1>Mold Remediation</h1>
+            <h4>Don't Let Mold Affect Your Health and Home</h4>
               <div class="view-more-holder">
                   <div class="view-more"><a href="services-areas.html">Learn More</a></div>
               </div>
           </div>
         </li>
 
-        <li> <img src="images/slider/biohazard-remediation-slide.jpg" alt="" />
+        <li> <img src="images/slider/biohazard-remediation-slide.png" alt="" />
           <div class="flex-caption">
-            <h1 class="yellow">BioHazard Remediation</h1>
-            <h4 class="yellow">EXPOSURE TO BIO-HAZARDOUS CONTAMINANTS CAN CAUSE SERIOUS HEALTH PROBLEMS</h4>
+            <h1>BioHazard Remediation</h1>
+            <h4>EXPOSURE TO BIO-HAZARDOUS CONTAMINANTS CAN CAUSE SERIOUS HEALTH PROBLEMS</h4>
               <div class="view-more-holder">
                   <div class="view-more"><a href="services-areas.html">Learn More</a></div>
               </div>
