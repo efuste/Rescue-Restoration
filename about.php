@@ -25,29 +25,29 @@
         <div class="col-sm-6 col-md-3">
 			<div class="inside-col-circle">
          <div class="circle-icon"><i class="fa"><img src="images/waterblue.png"/></i></div>
-         <h4 class="circle-title">Water Remediation</h4>
-         </div><!--.inside-col-circle-->
+         <a href="miami-water-remediation.php"><h4 class="circle-title">Water Remediation</h4></a>
+            </div><!--.inside-col-circle-->
         </div><!--.col-md-3-->
         
          <div class="col-sm-6 col-md-3">
 			<div class="inside-col-circle">
          <div class="circle-icon"><i class="fa"><img src="images/mold.png"/></i></div>
-         <h5 class="circle-title">Mold Remediation</h5>
-         </div><!--.inside-col-circle-->
+         <a href="miami-mold-remediation.php"><h5 class="circle-title">Mold Remediation</h5></a>
+            </div><!--.inside-col-circle-->
         </div><!--.col-md-3-->
         
           <div class="col-sm-6 col-md-3">
 			<div class="inside-col-circle">
          <div class="circle-icon"><i class="fa"><img src="images/bio.png"/></i></div>
-         <h5 class="circle-title">Bio-Hazard Remediation</h5>
+         <a href="miami-biohazard-remediation.php"><h5 class="circle-title">Bio-Hazard Remediation</h5></a>
          </div><!--.inside-col-circle-->
         </div><!--.col-md-3-->
         
           <div class="col-sm-6 col-md-3">
 			<div class="inside-col-circle">
          <div class="circle-icon"><i class="fa"><img src="images/fire.png"/></i></div>
-         <h5 class="circle-title">Fire Restoration</h5>
-         </div><!--.inside-col-circle-->
+         <a href="miami-fire-restoration.php"><h5 class="circle-title">Fire Restoration</h5></a>
+            </div><!--.inside-col-circle-->
         </div><!--.col-md-3-->
         
 </div><!--.row-->

@@ -5,9 +5,11 @@
 <footer>
   <div id="footer-content">
     <div class="container">
-      <h3 class="footer-title alignc">Free Case Review</h3>
-      <h5 class="footer-subtitle alignc">Fill out the form to receive a free case review</h5>
-      <div class="row">
+      <h3 id="estimate" class="footer-title alignc">Free Estimate</h3>
+      <h5 class="footer-subtitle alignc">Fill out the form to receive a free estimate</h5>
+      <h5 class="footer-subtitle alignc">Additional Services Include Upholstery, Carpet, and Tile & Grout Cleaning</h5>
+
+        <div class="row">
         <div class="col-md-12">
           <div id="evaluation-form-holder">
             <form method="post" id="evaluation-form" action='include/evaluation-process.php'>

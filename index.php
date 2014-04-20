@@ -3,42 +3,42 @@
   <section id="slider-home">
     <div class="flexslider flexslider-home">
       <ul class="slides">
-        <li> <img src="images/slider/water-remediation-slide.png" alt="" />
+        <li> <img src="images/slider/water-remediation-slide.png" alt="Miami Water Remediation" />
           <div class="flex-caption">
             <h1>Water Remediation</h1>
             <h4>Returning your home to pre-loss condition is our specialty</h4>
               <div class="view-more-holder">
-                  <div class="view-more"><a href="services-areas.html">Learn More</a></div>
+                  <div class="view-more"><a href="miami-water-remediation.php">Learn More</a></div>
               </div>
           </div>
         </li>
 
-        <li> <img src="images/slider/fire-restoration-slide.png" alt="" />
+        <li> <img src="images/slider/fire-restoration-slide.png" alt="Miami Fire Restoration" />
           <div class="flex-caption">
             <h1>Fire Restoration</h1>
             <h4>Fire Damage Can Be Devastating To You And Your Family</h4>
               <div class="view-more-holder">
-                  <div class="view-more"><a href="services-areas.html">Learn More</a></div>
+                  <div class="view-more"><a href="miami-fire-restoration.php">Learn More</a></div>
               </div>
           </div>
         </li>
 
-        <li> <img src="images/slider/mole-remediation-slide.png" alt="" />
+        <li> <img src="images/slider/mole-remediation-slide.png" alt="Miami Mold Remediation" />
           <div class="flex-caption">
             <h1>Mold Remediation</h1>
             <h4>Don't Let Mold Affect Your Health and Home</h4>
               <div class="view-more-holder">
-                  <div class="view-more"><a href="services-areas.html">Learn More</a></div>
+                  <div class="view-more"><a href="miami-mold-remediation.php">Learn More</a></div>
               </div>
           </div>
         </li>
 
-        <li> <img src="images/slider/biohazard-remediation-slide.png" alt="" />
+        <li> <img src="images/slider/biohazard-remediation-slide.png" alt="Biohazard Remediation" />
           <div class="flex-caption">
             <h1>BioHazard Remediation</h1>
             <h4>EXPOSURE TO BIO-HAZARDOUS CONTAMINANTS CAN CAUSE SERIOUS HEALTH PROBLEMS</h4>
               <div class="view-more-holder">
-                  <div class="view-more"><a href="services-areas.html">Learn More</a></div>
+                  <div class="view-more"><a href="miami-biohazard-remediation.php">Learn More</a></div>
               </div>
           </div>
         </li>
@@ -54,7 +54,7 @@
         <div class="col-md-12">
           <div class="intro-msg">
             <div class="intro-normal">South Florida's</div>
-            <div class="intro-2"><span class="intro-small-italic">Premier</span> <span class="intro-big-italic">Restoration</span> </div>
+            <div class="intro-2">Premier Restoration</div>
             <div class="intro-year">Company</div>
           </div>
         </div>
@@ -91,7 +91,7 @@
             <h5 class="services-title">Water Remediation</h5>
             </a>
             	<div class="view-more-holder">
-	       			 <div class="view-more"><a href="services-areas.html">Learn More</a></div>
+	       			 <div class="view-more"><a href="miami-water-remediation.php">Learn More</a></div>
 	     		 </div>
 	     	</div>
           <!--.services-item-->
@@ -103,7 +103,7 @@
             <h5 class="services-title">Mold Remediation</h5>
             </a>
             	<div class="view-more-holder">
-	       			 <div class="view-more"><a href="services-areas.html">Learn More</a></div>
+	       			 <div class="view-more"><a href="miami-mold-remediation.php">Learn More</a></div>
 	     		 </div></div>
           <!--.services-item-->
         </div>
@@ -114,7 +114,7 @@
             <h5 class="services-title">Bio-Hazard Remediation</h5>
             </a>
             	<div class="view-more-holder">
-	       			 <div class="view-more"><a href="services-areas.html">Learn More</a></div>
+	       			 <div class="view-more"><a href="miami-biohazard-remediation.php">Learn More</a></div>
 	     		 </div>
 	     	</div>
           <!--.services-item-->
@@ -126,7 +126,7 @@
             <h5 class="services-title">Fire Restoration Service</h5>
             	</a>
 	             <div class="view-more-holder">
-	       			 <div class="view-more"><a href="services-areas.html">Learn More</a></div>
+	       			 <div class="view-more"><a href="miami-fire-restoration.php">Learn More</a></div>
 	     		 </div>
       		</div>
           <!--.services-item-->

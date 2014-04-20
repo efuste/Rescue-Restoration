@@ -30,7 +30,12 @@
         <div class="col-md-12">
           <div class="clearfix">
             <div id="logo"><a href="#"><img src="images/logo.png" alt=""/></a></div>
+              <div id="free-estimate">
+                  <a href="#estimate"><h5>Get $500 Dollars Towards Your Deductible</h5></a>
+
+              </div>
             <div class="header-contact">
+
 <div class="header-phone">
 <span class="fa-stack">
   <i class="fa fa-circle fa-stack-2x"></i>
